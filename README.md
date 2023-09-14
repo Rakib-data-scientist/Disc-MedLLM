@@ -29,4 +29,4 @@
 13.
    ![DISC-MedLLM-Accurate-and-Truthful-Medical-Responses (1)_page-0013](https://github.com/Rakib-data-scientist/Disc-MedLLM/assets/137823730/8128f874-5052-43e4-aca4-c2185659f997)
 
-   Inspired by : https://arxiv.org/pdf/2308.14346v1.pdf
+  * Inspired by : https://arxiv.org/pdf/2308.14346v1.pdf
