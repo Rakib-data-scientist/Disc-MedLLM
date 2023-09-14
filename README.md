@@ -1,6 +1,6 @@
 # Disc-MedLLM
 
-Inspired by : https://arxiv.org/pdf/2308.14346v1.pdf
+
 
 1.
 ![DISC-MedLLM-Accurate-and-Truthful-Medical-Responses (1)_page-0001](https://github.com/Rakib-data-scientist/Disc-MedLLM/assets/137823730/e30d2932-5ed9-48a9-a830-784d59dcdbed)
@@ -28,3 +28,5 @@ Inspired by : https://arxiv.org/pdf/2308.14346v1.pdf
    ![DISC-MedLLM-Accurate-and-Truthful-Medical-Responses (1)_page-0012](https://github.com/Rakib-data-scientist/Disc-MedLLM/assets/137823730/15f41f74-07f3-45ed-83ee-60bdcf3e8709)
 13.
    ![DISC-MedLLM-Accurate-and-Truthful-Medical-Responses (1)_page-0013](https://github.com/Rakib-data-scientist/Disc-MedLLM/assets/137823730/8128f874-5052-43e4-aca4-c2185659f997)
+
+   Inspired by : https://arxiv.org/pdf/2308.14346v1.pdf
